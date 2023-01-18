@@ -4,7 +4,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Demo {
     public static void main(String[] args) {
 
-        System.setProperty("webdriver.chrome.driver", "/Users/techglobal/IdeaProjects/initial_selenium_project_5/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/SavageJenn/IdeaProjects/initial_selenium_project_5");
 
         WebDriver driver = new ChromeDriver(); // Instantiating ChromeDriver
 

@@ -12,7 +12,7 @@ public class _03_Locators_id {
          */
 
         // 1. Set up - before actions
-        System.setProperty("webdriver.chrome.driver", "/Users/SavageJenn/IdeaProjects");
+        System.setProperty("webdriver.chrome.driver", "/Users/SavageJenn/IdeaProjects/initial_selenium_project_5");
 
         WebDriver driver = new ChromeDriver();
 
